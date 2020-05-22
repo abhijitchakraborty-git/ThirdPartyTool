@@ -1,0 +1,30 @@
+2020-05-23 01:24:58 DEBUG LoggerDemo:12 - This is a debug method
+2020-05-23 01:24:58 INFO  LoggerDemo:17 - This is an information about AUT
+2020-05-23 01:24:58 ERROR LoggerDemo:22 - This is a error message
+2020-05-23 01:24:58 FATAL LoggerDemo:27 - This is a fatal error occurred during execution
+2020-05-23 01:24:58 WARN  LoggerDemo:32 - This is a warning message
+2020-05-23 01:25:28 DEBUG LoggerDemo:12 - This is a debug method
+2020-05-23 01:25:28 INFO  LoggerDemo:17 - This is an information about AUT
+2020-05-23 01:25:28 ERROR LoggerDemo:22 - This is a error message
+2020-05-23 01:25:28 FATAL LoggerDemo:27 - This is a fatal error occurred during execution
+2020-05-23 01:25:28 WARN  LoggerDemo:32 - This is a warning message
+2020-05-23 01:26:01 DEBUG LoggerDemo:12 - This is a debug method
+2020-05-23 01:26:01 INFO  LoggerDemo:17 - This is an information about AUT
+2020-05-23 01:26:01 ERROR LoggerDemo:22 - This is a error message
+2020-05-23 01:26:01 FATAL LoggerDemo:27 - This is a fatal error occurred during execution
+2020-05-23 01:26:01 WARN  LoggerDemo:32 - This is a warning message
+2020-05-23 01:26:55 DEBUG LoggerDemo:12 - This is a debug method
+2020-05-23 01:26:55 INFO  LoggerDemo:17 - This is an information about AUT
+2020-05-23 01:26:55 ERROR LoggerDemo:22 - This is a error message
+2020-05-23 01:26:55 FATAL LoggerDemo:27 - This is a fatal error occurred during execution
+2020-05-23 01:26:55 WARN  LoggerDemo:32 - This is a warning message
+2020-05-23 01:28:38 DEBUG LoggerDemo:12 - This is a debug method
+2020-05-23 01:28:38 INFO  LoggerDemo:17 - This is an information about AUT
+2020-05-23 01:28:38 ERROR LoggerDemo:22 - This is a error message
+2020-05-23 01:28:38 FATAL LoggerDemo:27 - This is a fatal error occurred during execution
+2020-05-23 01:28:38 WARN  LoggerDemo:32 - This is a warning message
+2020-05-23 01:29:03 DEBUG LoggerDemo:12 - This is a debug method
+2020-05-23 01:29:03 INFO  LoggerDemo:17 - This is an information about AUT
+2020-05-23 01:29:03 ERROR LoggerDemo:22 - This is a error message
+2020-05-23 01:29:03 FATAL LoggerDemo:27 - This is a fatal error occurred during execution
+2020-05-23 01:29:03 WARN  LoggerDemo:32 - This is a warning message
