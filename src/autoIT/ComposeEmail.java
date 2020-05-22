@@ -20,6 +20,7 @@ public class ComposeEmail
 	public static String driverValue = ".\\Drivers\\chromedriver.exe";
 	public WebDriverWait wait = null;
 	
+	//this is a precondition method to set hte browsers
 	@BeforeMethod
 	public void preConditions ()
 	{
